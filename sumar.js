@@ -1,1 +1,4 @@
 const sumar = (n1,n2) => {return n1 + n2};
+
+
+moduel.exports = sumar 
